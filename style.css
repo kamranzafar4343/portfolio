@@ -34,11 +34,22 @@ nav ul li {
   margin: 23px 0;
   justify-content: space-around;
 }
-.firstSection div {
+.firstSection > div {
   width: 30%;
 }
 .leftSection {
-  /* font-size: 1rem; */
+  font-size: 3rem;
+  margin-top: 60px;
+  /* margin-left: 25px; */
+
 }
 .rightSection {
+    
+}
+.rightSection img{
+    width: 80%;
+}
+
+.name-word{
+    color: rgb(99, 99, 233);
 }
