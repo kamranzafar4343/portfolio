@@ -50,7 +50,7 @@ nav ul li a:hover{
 
 }
 .leftSection {
-  font-size: 2.5rem;
+  font-size: 2rem;
   
   /* margin-left: 25px; */
 
@@ -61,7 +61,9 @@ nav ul li a:hover{
 .rightSection img{
     width: 80%;
 }
-
+.hi{
+  font-size: 3.5rem;
+}
 .name-word{
-    color: rgb(99, 99, 233);
+  color: purple;
 }
