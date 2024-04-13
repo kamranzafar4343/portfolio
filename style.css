@@ -67,3 +67,20 @@ nav ul li a:hover{
 .name-word{
   color: purple;
 }
+.linebeforeSec2{
+width: 80%;
+margin-left: 100px;
+margin-top: 120px;
+margin-bottom: 30px;
+}
+.secondSection{
+  max-width: 80vw;
+  margin: auto;
+  height: 80vh;
+}
+.secondSection h1{
+font-size: 1.9rem;
+}
+.text-gray{
+  color: gray;
+}
