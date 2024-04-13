@@ -23,12 +23,12 @@ nav ul li {
   list-style: none;
   margin: 0 23px;
 }
-nav ul li a{
+nav ul li a {
   list-style: none;
   color: white;
-  text-decoration: none; 
+  text-decoration: none;
 }
-nav ul li a:hover{
+nav ul li a:hover {
   color: rgb(140, 163, 255);
   font-size: 1.3rem;
 }
@@ -47,40 +47,44 @@ nav ul li a:hover{
 .firstSection > div {
   width: 30%;
   margin-top: 60px;
-
 }
 .leftSection {
   font-size: 2rem;
-  
-  /* margin-left: 25px; */
 
+  /* margin-left: 25px; */
 }
 /* .rightSection {
     
 } */
-.rightSection img{
-    width: 80%;
+.rightSection img {
+  width: 80%;
 }
-.hi{
+.hi {
   font-size: 3.5rem;
 }
-.name-word{
+.name-word {
   color: purple;
 }
-.linebeforeSec2{
-width: 80%;
-margin-left: 100px;
-margin-top: 120px;
-margin-bottom: 30px;
+.linebeforeSec2 {
+  width: 80%;
+  margin-left: 100px;
+  margin-top: 120px;
+  margin-bottom: 30px;
 }
-.secondSection{
+.secondSection {
   max-width: 80vw;
   margin: auto;
   height: 80vh;
 }
-.secondSection h1{
-font-size: 1.9rem;
+.secondSection h1 {
+  font-size: 1.9rem;
 }
-.text-gray{
+.text-gray {
   color: gray;
+}
+.box {
+  background: white;
+  height: 20px;
+  width: 80vw;
+  margin: 56px 0;
 }
