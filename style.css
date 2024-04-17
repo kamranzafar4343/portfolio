@@ -83,8 +83,37 @@ nav ul li a:hover {
   color: gray;
 }
 .box {
+  display: flex;
   background: white;
-  height: 20px;
-  width: 80vw;
-  margin: 56px 0;
+  height: 3px;
+  width: 78vw;
+  margin: 130px 0;
+  justify-content: space-around;
 }
+
+.secondSection .vertical {
+  background-color: #FFFFF7;
+  height: 70px;
+  width: 2px;
+  /* margin: 0 100px; */
+}
+.img-top {
+  width: 60px;
+  position: relative;
+  top: -65px;
+  left: -30px;
+}
+.vertical-title {
+  position: relative;
+  top: 20px;
+  width: 140px;
+  font-size: 16px;
+}
+.vertical-desc {
+  position: relative;
+  top: 30px;
+  width: 140px;
+  font-size: 12px;
+  color: grey;
+}
+
