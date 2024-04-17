@@ -11,7 +11,7 @@ nav {
   display: flex;
   justify-content: space-around;
   align-items: center;
-  height: 100px;
+  height: 80px;
   background-color: rgb(17, 17, 56);
 }
 
@@ -29,11 +29,16 @@ nav ul li a {
   text-decoration: none;
 }
 nav ul li a:hover {
-  color: rgb(140, 163, 255);
+  color: #0ef;
   font-size: 1.3rem;
 }
 .left {
-  font-size: 1.5rem;
+  font-size: 2rem;
+  transition: .5s;
+}
+.left:hover {
+ color: #0ef;
+ cursor: text;
 }
 .right {
   font-size: 1.2rem;
@@ -63,7 +68,7 @@ nav ul li a:hover {
   font-size: 2.4rem;
 }
 .name-word {
-  color: purple;
+  color: #0ef;
 }
 .linebeforeSec2 {
   width: 80%;
@@ -71,13 +76,15 @@ nav ul li a:hover {
   margin-top: 120px;
   margin-bottom: 30px;
 }
-.secondSection {
+#secondSection {
   max-width: 80vw;
   margin: auto;
   height: 80vh;
+  margin-top: 125px;
 }
-.secondSection h1 {
-  font-size: 1.9rem;
+#secondSection h1 {
+  font-size: 2rem;
+  
 }
 .text-gray {
   color: gray;
@@ -91,7 +98,7 @@ nav ul li a:hover {
   justify-content: space-around;
 }
 
-.secondSection .vertical {
+#secondSection .vertical {
   background-color: #FFFFF7;
   height: 70px;
   width: 2px;
