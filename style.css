@@ -33,12 +33,12 @@ nav ul li a:hover {
   font-size: 1.3rem;
 }
 .left {
-  font-size: 2rem;
-  transition: .5s;
+  font-size: 1.8rem;
+  transition: 0.5s;
 }
 .left:hover {
- color: #0ef;
- cursor: text;
+  color: #0ef;
+  cursor: text;
 }
 .right {
   font-size: 1.2rem;
@@ -84,7 +84,6 @@ nav ul li a:hover {
 }
 #secondSection h1 {
   font-size: 2rem;
-  
 }
 .text-gray {
   color: gray;
@@ -99,7 +98,7 @@ nav ul li a:hover {
 }
 
 #secondSection .vertical {
-  background-color: #FFFFF7;
+  background-color: #fffff7;
   height: 70px;
   width: 2px;
   /* margin: 0 100px; */
@@ -147,20 +146,20 @@ nav ul li a:hover {
   width: 140px;
   font-size: 16px;
 }
-.vertical-desc1{
+.vertical-desc1 {
   position: relative;
   top: 47px;
   width: 140px;
   font-size: 12px;
   color: grey;
 }
-.vertical-title4{
+.vertical-title4 {
   position: relative;
   top: 30px;
   width: 150px;
   font-size: 16px;
 }
-.vertical-desc4{
+.vertical-desc4 {
   position: relative;
   top: 40px;
   width: 140px;
