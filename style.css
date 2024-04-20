@@ -54,7 +54,7 @@
     width: 30%;
     margin-top: 60px;
   }
-  .button1 {
+  #button1 {
     position: relative;
     background-color: rgb(17, 17, 56);
     border: #0ef 4px solid;
@@ -69,10 +69,10 @@
     cursor: pointer;
     border-radius: 30px;
     margin-left: 80px;
-    margin-top: 30px;
+    margin-top: 40px;
   }
   
-  .button1:after {
+  #button1:after {
     content: "";
     background: #0ef;
     display: block;
@@ -85,7 +85,7 @@
     transition: all 0.8s
   }
   
-  .button1:active:after {
+  #button1:active:after {
     padding: 0;
     margin: 0;
     opacity: 1;
