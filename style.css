@@ -51,9 +51,20 @@
     align-items: center;
   }
   .firstSection > div {
-    width: 30%;
+    width: 50%;
     margin-top: 60px;
   }
+  .p1-1{
+    font-size: 20px;
+    color: #0ef;
+    margin-left: 230px;
+
+ 
+   }
+   .h1-1{
+     font-size: 50px;
+     margin-left: 150px;
+   }
   #button1 {
     position: relative;
     background-color: rgb(17, 17, 56);
@@ -68,8 +79,8 @@
     overflow: hidden;
     cursor: pointer;
     border-radius: 30px;
-    margin-left: 80px;
-    margin-top: 40px;
+    margin-left: 252px;
+    margin-top: 30px;
   }
   
   #button1:after {
@@ -109,12 +120,12 @@
     color: #0ef;
   }
   .linebeforeSec2 {
-    width: 80%;
-    margin-left: 100px;
-    margin-top: 120px;
+    width: 60%;
+    margin-left: 250px;
+    margin-top: 148px;
     margin-bottom: 30px;
   }
-  #secondSection {
+  /* #secondSection {
     max-width: 80vw;
     margin: auto;
     height: 80vh;
@@ -140,7 +151,7 @@
     background-color: #fffff7;
     height: 70px;
     width: 2px;
-    /* margin: 0 100px; */
+   
   }
   .img-top {
     width: 60px;
@@ -217,7 +228,7 @@
     width: 140px;
     font-size: 12px;
     color: grey;
-  }
+  } */
   footer{
     background-color: rgb(17, 17, 56);
     position: relative;
@@ -313,19 +324,46 @@
   .about{
     margin-right: 50px;
     width: 600px;
-    margin-top: 40px;
+    margin-top: 20px;
+    text-align: center;
+   
+    
   }
   
   #thirdSection h1 {
     font-size: 2.7rem;
     margin-bottom: 20px;
+    margin-left: 45px;
   }
   #thirdSection p{
     font-size: 17px;
     line-height: 1.7;
-  }
+    opacity: 0.80;
+    width: 457px;
+    align-items: center;
+    padding-left: 45px;
+    margin-left: 83px;
+} 
+ 
   #thirdSection img{
-    width: 300px;
-    height: 290px;
-    
+    width: 225px;
+    height: 226px;
+    position: relative;
+    top: 76px;
+    left: 34px;
   }
+.w3-opacity{
+  width: 200px;
+    opacity: 0.60;
+    position: relative;
+    left: 225px;
+    /* margin-top: 0px; */
+    top: -15px;
+    margin-bottom: 10px;
+}
+
+.linebeforefooter{
+  width: 60%;
+    margin-left: 250px;
+    margin-bottom: 30px;
+}
