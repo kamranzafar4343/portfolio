@@ -375,12 +375,17 @@
 .headerSkills{
   text-align: center;
   padding: 1rem;
+  margin-top: 50px;
 }
 .container{
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(2, 1fr);
   grid-gap: 1rem;
-  padding: 1rem 80px;
+  padding: 1rem 140px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-left: 57px;
 }
 .w4-opacity{
   width: 150px;
@@ -395,4 +400,34 @@
 .fourth-section h1{
   font-size: 2.7rem;
     margin-bottom: 20px;
+}
+.skill-box{
+  padding: 1rem 3rem;
+  cursor: pointer;
+  width: 415px;
+}
+.skill-box p{
+  font-size: 15px;
+  opacity: 0.99;
+  color: gray;
+}
+.skill-box p:hover{
+color: white;
+opacity: 100%;
+transition: 0.8s;
+}
+.imgskills{
+  margin-bottom: 6px;
+  border-radius: 47%;
+  background-color: white;
+  height: 36px;
+  width: 36px;
+  display: flex;
+  position: relative;
+  left: 138px;
+  align-items: center;
+  justify-content: center;
+}
+.skill-icon{
+  width: 50px;
 }
