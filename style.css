@@ -404,7 +404,7 @@
 .skill-box{
   padding: 1rem 3rem;
   cursor: pointer;
-  width: 415px;
+  width: 435px;
 }
 .skill-box p{
   font-size: 15px;
@@ -420,14 +420,32 @@ transition: 0.8s;
   margin-bottom: 6px;
   border-radius: 47%;
   background-color: white;
-  height: 36px;
-  width: 36px;
+  height: 56px;
+  width: 56px;
   display: flex;
   position: relative;
-  left: 138px;
+  left: 139px;
   align-items: center;
   justify-content: center;
 }
 .skill-icon{
   width: 50px;
+}
+.img-skills img{
+  width: 150px;
+  height: 150px;
+}
+.linebeforeSec4 {
+  width: 60%;
+  margin-left: 250px;
+  margin-bottom: 30px;
+}
+
+.linebeforeSec5 {
+  width: 60%;
+  margin-left: 250px;
+  /* margin-bottom: 30px; */
+  margin-bottom: 128px;
+  margin-top: 88px;
+  /* margin-top: ; */
 }
