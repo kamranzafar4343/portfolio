@@ -596,7 +596,7 @@ color: #0ef;
 }
 
 .details-container {
-  padding: 1.5rem;
+  padding: 1rem;
   flex: 1;
   background: white;
   border-radius: 2rem;
@@ -684,4 +684,28 @@ article .icon {
 .project-text{
   position: relative;
   left: 300px;
+}
+.project-text{
+  text-align: center;
+    margin-right: 610px;
+    margin-top: 130px;
+    margin-bottom: 33px;
+}
+/* .project-text p{
+  margin-right: 32px;
+  margin-bottom: 5px;
+  color: #0ef;
+  opacity: 0.70;
+  
+  
+} */
+.w5-opacity {
+  width: 190px;
+  opacity: 0.6;
+  position: relative;
+  left: 275px;
+  /* margin-top: 0px; */
+  top: -5px;
+  margin-bottom: 10px;
+  border-bottom: #0ef 2px solid;
 }
