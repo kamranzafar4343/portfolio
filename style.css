@@ -35,7 +35,7 @@ nav ul li a {
 }
 nav ul li a:hover {
   color: #0ef;
-  font-size: 1.3rem;
+  /* font-size: 1.3rem; */
 }
 .left {
   font-size: 1.8rem;
@@ -725,4 +725,27 @@ article .icon {
   top: -5px;
   margin-bottom: 10px;
   border-bottom: #0ef 2px solid;
+}
+@media screen and(width: 428px){
+  .left{
+    flex-direction: column;
+    margin-left: 42px;
+    margin-right: 62px;
+    justify-content: center;
+    max-width: 50vh;
+
+     }
+  nav .right{
+    font-size: 17px;
+    margin-left: 112px;
+}
+
+.h1-1 {
+  font-size: 20px;
+}
+.leftSection button p{
+
+  left: 100px;
+  top: 10px;
+}
 }
