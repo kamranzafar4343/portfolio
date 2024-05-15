@@ -523,6 +523,10 @@ color: #0ef;
   cursor: pointer;
   margin-left: 340px;
 }
+.send-message:active{
+opacity: 0.60;
+color: #ffffff;
+}
 /* .w5-opacity {
   width: 290px;
   opacity: 0.6;
