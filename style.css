@@ -400,13 +400,13 @@ color: #0ef;
 }
 .container {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: repeat(3, 1fr);
   grid-gap: 1rem;
-  padding: 1rem 140px;
+  padding: 1rem 340px;
   justify-content: center;
   align-items: center;
   text-align: center;
-  margin-left: 57px;
+  margin-left: -9px;
 }
 .w4-opacity {
   width: 150px;
@@ -424,14 +424,14 @@ color: #0ef;
 }
 .skill-box {
   padding: 1rem 3rem;
-  cursor: pointer;
+  /* cursor: pointer; */
   width: 435px;
 }
-.skill-box p {
+/* .skill-box p {
   font-size: 15px;
   opacity: 0.99;
   color: gray;
-}
+} */
 .skill-box p:hover {
   color: white;
   opacity: 100%;
