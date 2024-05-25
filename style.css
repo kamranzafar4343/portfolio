@@ -777,4 +777,57 @@ article .icon {
   padding: 20px;
   width: 120px;
 }
+.linebeforeSec2 {
+  width: 60%;
+  margin-left: 80px;
+  margin-top: 85px;
+  margin-bottom: 30px;
+}
+#thirdSection {
+  margin-left: 1px;
+  height: 80vh;
+  max-width: 80vw;
+  margin-top: 80px;
+  display: flex;
+  flex-direction: column;
+}
+.about {
+
+  width: 600px;
+  margin-top: 80px;
+  text-align: center;
+}
+
+#thirdSection h1 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+  margin-left: 45px;
+}
+#thirdSection p {
+  font-size: 12px;
+  line-height: 1.7;
+  opacity: 0.9;
+  width: 340px;
+  align-items: center;
+  padding-left: 45px;
+  margin-left: 83px;
+}
+
+#thirdSection img {
+  width: 150px;
+  height: 150px;
+  position: relative;
+  top: 25px;
+  left: 130px;
+}
+.w3-opacity {
+  width: 200px;
+  opacity: 0.6;
+  position: relative;
+  left: 225px;
+  /* margin-top: 0px; */
+  top: -15px;
+  margin-bottom: 10px;
+  border-bottom: #0ef 2px solid;
+}
 }
