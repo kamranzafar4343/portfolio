@@ -355,7 +355,7 @@ footer {
 #thirdSection h1 {
   font-size: 2.7rem;
   margin-bottom: 20px;
-  margin-left: 45px;
+  margin-left: -205px;
 }
 #thirdSection p {
   font-size: 17px;
@@ -364,7 +364,7 @@ footer {
   width: 457px;
   align-items: center;
   padding-left: 45px;
-  margin-left: 83px;
+  margin-left: -48px;
 }
 
 #thirdSection img {
@@ -372,13 +372,13 @@ footer {
   height: 226px;
   position: relative;
   top: 76px;
-  left: 34px;
+  left: 800px;
 }
 .w3-opacity {
   width: 200px;
   opacity: 0.6;
   position: relative;
-  left: 225px;
+  left: 98px;
   /* margin-top: 0px; */
   top: -15px;
   margin-bottom: 10px;
@@ -406,13 +406,13 @@ footer {
   justify-content: center;
   align-items: center;
   text-align: center;
-  margin-left: -9px;
+  margin-left: -50px;
 }
 .w4-opacity {
   width: 150px;
   opacity: 0.6;
   position: relative;
-  left: 586px;
+  left: 652px;
   /* margin-top: 0px; */
   top: -13px;
   margin-bottom: 10px;
@@ -458,7 +458,8 @@ footer {
 }
 .linebeforeSec4 {
   width: 60%;
-  margin-left: 250px;
+  margin-left: 260px;
+  margin-top:20px;
   margin-bottom: 30px;
 }
 
@@ -723,7 +724,7 @@ article .icon {
   width: 190px;
   opacity: 0.6;
   position: relative;
-  left: 148px;
+  left: 203px;
   /* margin-top: 0px; */
   top: -5px;
   margin-bottom: 10px;
@@ -734,14 +735,15 @@ article .icon {
     /*     
     margin-left: 42px;
     margin-right: 62px; */
-    margin-left: 12px;
+    margin-left: 19px;
     justify-content: center;
     max-width: 50vh;
     font-size: 16px;
+    color: #0ef;
   }
   nav .right {
     font-size: 12px;
-    margin-left: 0;
+    margin-left: 2px;
     display: flex;
     margin: 23px 0;
     align-items: center;
