@@ -31,7 +31,7 @@ To run this project locally, follow these steps:
 
 ## Demo
 
-You can view a live demo of this project [here](#).
+You can view a live demo of this project [here](https://kamranzafar4343.github.io/portfolio/).
 
 ## Contributing
 
