@@ -409,10 +409,10 @@ footer {
   margin-left: -50px;
 }
 .w4-opacity {
-  width: 150px;
+  width: 144px;
   opacity: 0.6;
   position: relative;
-  left: 652px;
+  left: 588px;
   /* margin-top: 0px; */
   top: -13px;
   margin-bottom: 10px;
@@ -724,7 +724,7 @@ article .icon {
   width: 190px;
   opacity: 0.6;
   position: relative;
-  left: 203px;
+  left: 144px;
   /* margin-top: 0px; */
   top: -5px;
   margin-bottom: 10px;
